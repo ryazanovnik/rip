@@ -11,7 +11,11 @@ body {background: url(img/video.png) repeat; background-size: 100% 100%; backgro
 font-size: 3vw;}
 .ssilka {text-decoration: underline; color:black; }
 
-
+.wrapp {
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
 
 .dvijenie {
     width:100%;
